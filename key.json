@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinking-league-276511",
+  "private_key_id": "92dabd999544af8bc3fce020d9cfd73e22378ccc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhm+bKLhoyGnZm\nxGESHvP5DDdmvg2edn3EJ0TQgB+t8EbmV7O7f8riZYtrdbCjeu3pPez9ExjEvm1p\nZJ11818hpUYvezKbQPZSIrLQx+z9sZZvH2+Irc43eODCfNNZBveINWkbpfzVFGlO\nOjGQcmAd0ILHmEyeUTMSotw5nSQXSru1FvEpk/o8fl5HUFhDHcUKkFfkaFwKRu5V\nGqZoOM1CEG0rR3SlRG9M7AV6YsHbGan8BnGH//FvcJvd4TQ9wVtHgIbniPq0Gr7M\niUCkGR7HwmnbrjAwBIF4rhTHsDE8NR+f7esNV3ebf8OlDmlnszYbO7FR+N3PYoY3\nNKc/2I1VAgMBAAECggEAAixAfINQxag5W6EGLYs7T+wCAaqVd2EzT201jFgRZ0V/\nRQFasa181HlLqc2ikJ1vIgEjt8FWrP/0DjI5YT21POLVf2hDnhZ7qNgpPxw3DnRz\nDuIUWvTU9liAf4K4zBGD/mnhRndRSsudVqRE6shEwnwiqCkUJ9TOTADr7a34V+Zz\nnSIcjSLp6Jq0yhwyrkP0YDSn0Wa5JEyEXoEMmmLxf17Bqal/NTt1cwBc+GVDbbb8\nrg3+yhqX1xKf1JDOrUaFoebs6qUGEQ4XAK8zkQS9uvEcr/nn5KKd3wHoHXSJCDds\nZ1uyhEc9lrMq6b/TLi2QOSWGFIJHLUAHKecyijIBiwKBgQD5f53EhdpBcKpmCXXW\noQYCi7eGjxXhXxwd0kyM111hJc0cIy/WMkxeTFUbaWj5hEqQcAdORburXbrYxY1Z\nZWKaCGYiPAvqzGaaevflQtfmiAkuEh04PCqtu0G0dKhgCCMiTkkVKoyCm2ApmE1X\nwI9BAspLWGp4telQy7W6ljzNNwKBgQDnfOuZLCfNrST5HJXYWVBj6hRRxTr8GkNs\nprtuS8u6yndnowWni0x2heYvkL+TL4B1rMsVbcofbMMLkf41wWfDBkBbhA/n/Fsn\n243qveYkzOYTbWol7DAKtVLmVNtpQbzYu8mLaL+vl5kLEbY5igLlUUO9qSsPspNT\nXgcNKwxf0wKBgQCcfXDlXNdiiFo4meJxdpogaqX4HjMpItCt28Pr6wFE98LIzUEp\n5m6EDviqstkG9/UU10+dxptJhwa1BGP+GFtaJb555pPK9927MzndcKmejODFJtNw\n/DwAsB0sJKefZDs1P0kTn5Z2LSKJtF9+lObFbgyYaaKOh/sJlFwt5iHIzQKBgD2Q\n1cAZJETpZcnzNk8iAeVw3hKZWASwn3oIJhVBh1+YdYVUsC5NN/rVxdCkuK7WlV22\npRR/7J/K91zeaTO2ynft87PjPa+/SCcjl2z1MH5dGFvWX8LSPDy82N11eB1YZHdo\nCkRPiZuTwBpXjZVkBT0kDdYlZdR49AHaIhn4dwQNAoGAWNi0qVvsZZ2mdmK3gtIt\nav8aP+j1C5zUYIJv7YOclr3sF92KF96bCovxBrH3z26BH+yYWYWi43jS0ph9XBH/\nA8pfPw6CepufamgO1AnX56hb4SyCfNtHZj16J9bVi7I0/WWLJPcwozps1unK35Tw\nGtGOfZbRWs+ocvc/b2qUlzc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-service-account@thinking-league-276511.iam.gserviceaccount.com",
+  "client_id": "107964297929574045052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-service-account%40thinking-league-276511.iam.gserviceaccount.com"
+}
